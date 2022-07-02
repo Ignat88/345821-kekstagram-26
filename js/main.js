@@ -60,7 +60,7 @@ const PHOTO_COMMENTS = [
 
 
 // задаем количество создаваемых фотографий
-let USER_PHOTO_COUNT = 25;
+const USER_PHOTO_COUNT = 25;
 
 //создаем объект комментария
 const createPhotoComment = (_,index) => ({
